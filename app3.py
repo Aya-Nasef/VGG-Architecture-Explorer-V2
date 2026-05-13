@@ -1363,7 +1363,7 @@ def render_footer():
     <div class="footer">
       Built with <strong>Streamlit</strong> · <strong>PyTorch</strong> ·
       <strong>torchvision</strong> &nbsp;|&nbsp;
-      CPU-only · lazy model loading &nbsp;|&nbsp;
+      VGG-16 &amp; VGG-19 pretrained on <strong>ImageNet</strong> &nbsp;|&nbsp;
       <strong>Simonyan &amp; Zisserman, ICLR 2015</strong>
     </div>""", unsafe_allow_html=True)
 
