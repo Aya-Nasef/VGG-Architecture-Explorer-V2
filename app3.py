@@ -1332,10 +1332,8 @@ def render_sidebar():
         st.markdown("""
         <div style="font-size:0.78rem;color:#94a3b8">
         <b style="color:#7dd3fc">About</b><br><br>
-        • Lazy model loading (one at a time)<br>
-        • CPU-only inference<br>
-        • Cached image preprocessing<br>
-        • Forward hook extraction<br>
+        • Live feature map extraction<br>
+        • Model loading (one at a time)<br>
         • Interactive 8×8 matrix demos<br>
         • Receptive field growth<br>
         • Parameter efficiency analysis<br><br>
