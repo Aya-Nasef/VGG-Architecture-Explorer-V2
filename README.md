@@ -1,7 +1,8 @@
 **This project demonstrates the VGG neural network architecture using:**
-* Interactive demo
-* Presentation
-* MCQs
+* Interactive demo (demo.py)
+* Presentation (VGG_Presentation.pptx)
+* MCQs (VGG_Questions.pdf)
+* Complete report (Project_Report_G16.pdf)
 * Self-test websites
 
 **Websites:**
